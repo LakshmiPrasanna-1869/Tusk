@@ -3,3 +3,5 @@ Kinds of IceCreams
 vanila
 blueberry
 Butterscoth
+strawberry
+Raspberry
