@@ -1,6 +1,6 @@
 Welcome to the Delicious Dessert
 Kinds of IceCreams
-vanila
+vanilla
 blueberry
 Butterscoth
 strawberry
